@@ -4,7 +4,7 @@ public class Hello
 {
 	public static void main (String[] args)
 	{
-		System.out.println("master: 50");
+		System.out.println("master: 51");
 	}
 }
 
