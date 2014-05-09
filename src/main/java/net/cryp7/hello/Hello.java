@@ -4,7 +4,7 @@ public class Hello
 {
 	public static void main (String[] args)
 	{
-		System.out.println("ci-trigger-42");
+		System.out.println("ci-trigger-43");
 	}
 }
 
