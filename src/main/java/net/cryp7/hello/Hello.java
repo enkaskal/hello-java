@@ -6,7 +6,7 @@ public class Hello
 	{
 		System.out.println("\n\n\n\n\n\n");
 		System.out.println("****************");
-		System.out.println("* hell-0 world *");
+		System.out.println("* build!! world *");
 		System.out.println("****************");
 	}
 }
